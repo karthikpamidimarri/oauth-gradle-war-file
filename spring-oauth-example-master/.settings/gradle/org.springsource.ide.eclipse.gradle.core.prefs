@@ -1,0 +1,5 @@
+#org.springsource.ide.eclipse.gradle.core.preferences.GradleProjectPreferences
+#Mon Jul 06 18:11:02 IST 2015
+build.family.org.gradle.tooling.model.eclipse.HierarchicalEclipseProject=;oauth-common;oauth-server;resource-server;
+org.springsource.ide.eclipse.gradle.linkedresources=
+org.springsource.ide.eclipse.gradle.rootprojectloc=
